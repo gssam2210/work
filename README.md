@@ -2,3 +2,4 @@
 IESE
 mba
 post grad
+barfcelona 
